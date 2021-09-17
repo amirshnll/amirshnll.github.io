@@ -4,6 +4,7 @@ HomeText([
         "name":"Amir Shokri",
         "profilePic":"assets/img/avatar.jpg",
         "location": "Islamic Republic of Iran",
+        "birthday": "November 18th, 1996",
         "email":"amirsh.nll@gmail.com",
         "about":"I have Master degree of <strong>Artificial Intelligence</strong> in computer and electrical department at the Semnan University, and I'm doing my research underneath cover of supervisor <strong><a target='_blank' href='https://scholar.google.com/citations?user=AM9LzzgAAAAJ' title='Dr. Farzin Yaghmaie'>Dr. Farzin Yaghmaee</a></strong>.<br/> My main areas of interest are Artificial intelligence (AI), Machine Learning (ML), Natural Language Processing (NLP), Image Memorability. <br /> I like working on open source projects."
     }

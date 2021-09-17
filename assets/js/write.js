@@ -40,6 +40,7 @@ function HomeText(homeData) {
     _setInner("#name",homeData[0].name);
     _setInner("#email",homeData[0].email);
     _setInner("#location",homeData[0].location);
+    _setInner("#birthday",homeData[0].birthday);
     _setInner("#about",homeData[0].about);
     _setAttr("#profilePic" , 'src' ,homeData[0].profilePic);
 }
