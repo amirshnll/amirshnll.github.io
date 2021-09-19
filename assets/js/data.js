@@ -38,7 +38,7 @@ Links([
 ]);
 Skill([
     {
-        "title":"<strong>- Programming Languages</strong>",
+        "title":"<strong>- Tools & Technologies</strong>",
     },
 	{
 		"title":"PHP",
@@ -47,32 +47,68 @@ Skill([
 		"title":"Java",
 	},
     {
+        "title":"Codeigniter",
+    },
+    {
         "title":"Matlab",
     },
     {
-        "title":"Python",
+        "title":"WordPress",
     },
     {
-        "title":"C / C++",
+        "title":"python",
     },
     {
-        "title":"<strong>- Tools</strong>",
-    },
-    {
-        "title":"mysql",
-    },
-    {
-        "title":"Git",
+        "title":"TensorFlow",
     },
     {
         "title":"Linux",
     },
     {
-        "title" : "Wordpress"
+        "title":"C & C++",
     },
     {
-        "title" : "TensorFlow"
-    }
+        "title":"Git",
+    },
+    {
+        "title":"CSS",
+    },
+    {
+        "title":"HTML",
+    },
+    {
+        "title":"MySQL",
+    },
+    {
+        "title":"JavaScript",
+    },
+    {
+        "title":"Django",
+    },
+    {
+        "title":"JSON",
+    },
+    {
+        "title":"XML",
+    },
+    {
+        "title":"<strong>- Industry Knowledge</strong>",
+    },
+    {
+        "title":"Machine Learning",
+    },
+    {
+        "title":"Front-end Development",
+    },
+    {
+        "title":"Agile Methodologies",
+    },
+    {
+        "title":"Object-Oriented Programming (OOP)",
+    },
+    {
+        "title":"Search Engine Optimization (SEO)",
+    },
 ]);
 Language([
     {
