@@ -31,6 +31,10 @@ Links([
         "icon":"fab fa-kaggle",
     },
     {
+        "href":"https://scholar.google.com/citations?user=VRbi9YUAAAAJ",
+        "icon":"fal fa-graduation-cap",
+    },
+    {
         "href":"https://ashokri.com",
         "icon":"fab fa-wordpress",
     }
