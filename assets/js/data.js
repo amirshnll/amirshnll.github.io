@@ -53,6 +53,9 @@ Skill([
     {
         "title":"Codeigniter",
     },
+	{
+        "title":"Laravel",
+    },
     {
         "title":"Matlab",
     },
