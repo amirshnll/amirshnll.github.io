@@ -6,3 +6,4 @@ https://amirshnll.github.io/Tetris/
 https://amirshnll.github.io/sticky-note-javascript/
 https://amirshnll.github.io/calendar-widget/
 https://amirshnll.github.io/color-converter/
+https://amirshnll.github.io/truth-or-date/
