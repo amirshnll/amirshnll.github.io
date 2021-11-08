@@ -222,13 +222,13 @@ Project([
         "des":"<span class='fal fa-diamond'></span> Educational Blog (Programming & AI), <span class='fal fa-crown'></span> Alexa Rank : Top 3000 top website in Iran, <span class='fal fa-globe'></span> 1100 Free Blog Post"
     },
     {
-        "title":"Persian Swear Words Dataset <span class='fal fa-star'></span> 135 star",
+        "title":"Persian Swear Words Dataset <span class='fal fa-star'></span> 140 star",
         "link":"https://github.com/amirshnll/Persian-Swear-Words",
         "href":"https://github.com/amirshnll/Persian-Swear-Words",
         "des":"List of Persian Swears, DOI: <strong>10.34740/kaggle/dsv/2094967</strong>"
     },
     {
-        "title":"right to be forgotten (RTBF) Directory <span class='fal fa-star'></span> 70 star",
+        "title":"right to be forgotten (RTBF) Directory <span class='fal fa-star'></span> 80 star",
         "link":"https://rtbf.ir",
         "href":"https://rtbf.ir",
         "des":"A directory of direct links to delete your account from iranian web services. | github repository : <strong><a href='https://github.com/amirshnll/rtbf.ir' title='amirshnll/rtbf.ir'>amirshnll/rtbf.ir</a></strong>"
