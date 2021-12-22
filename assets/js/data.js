@@ -44,16 +44,16 @@ Skill([
     {
         "title":"<strong>- Tools & Technologies</strong>",
     },
-	{
-		"title":"PHP",
-	},
-	{
-		"title":"Java",
-	},
+    {
+        "title":"PHP",
+    },
+    {
+        "title":"Java",
+    },
     {
         "title":"Codeigniter",
     },
-	{
+    {
         "title":"Laravel",
     },
     {
@@ -146,46 +146,39 @@ interest([
 ]);
 Experience([
     {
+        "title":"Teaching Assistant (part-time)",
+        "at":"<a href='https://semnan.ac.ir/' title='Semnan University'>Semnan University</a>",
+        "des": "Image processing Course, Department of Electrical and Computer <br /> Machine learning Course, Department of Electrical and Computer <br /> Computer Architecture Course, Department of Electrical and Computer",
+        "startDate":"November 2020",
+        "endDate":"December 2021 (1 yr 2 mo)",
+    },
+    {
         "title":"PHP Developer (full-time)",
         "at":"<a href='https://chenco.ir/' title='Cheshmenor'>Cheshmenor</a>",
         "des": "",
-        "startDate":"September 2019",
-        "endDate":"currently",
-    },
-    {
-        "title":"Teaching Assistant (part-time)",
-        "at":"<a href='https://semnan.ac.ir/' title='Semnan University'>Semnan University</a>",
-        "des": "Image processing Course, Department of Electrical and Computer",
-        "startDate":"February 2021",
-        "endDate":"June 2021",
-    },
-    {
-        "title":"Teaching Assistant (part-time)",
-        "at":"<a href='https://semnan.ac.ir/' title='Semnan University'>Semnan University</a>",
-        "des": "Machine learning Course, Department of Electrical and Computer",
-        "startDate":"November 2020",
-        "endDate":"January 2021",
+        "startDate":"January 2019",
+        "endDate":"August 2019 (8 mo)",
     },
     {
         "title":"IT Technician (internship)",
         "at":"<a href='https://damavandwaters.com/?lang=en' title='Damavand Mineral Co'>Damavand Mineral Co</a>",
         "des": "",
         "startDate":"September 2018",
-        "endDate":"December 2018",
+        "endDate":"December 2018 (4 mo)",
     },
     {
         "title":"Web Developer (internship)",
         "at":"<a href='https://www.parsonline.com/' title='ParsOnline Group'>ParsOnline Group</a>",
         "des": "",
         "startDate":"June 2015",
-        "endDate":"August 2015",
+        "endDate":"August 2015  (3 mo)",
     },
     {
         "title":"PHP Developer (full-time)",
         "at":"<a href='http://www.spiraldesign.org/' title='Spiral Design Center'>Spiral Design Center</a>",
         "des": "",
         "startDate":"September 2014",
-        "endDate":"January 2015",
+        "endDate":"January 2015  (5 mo)",
     }
 ]);
 Education([
