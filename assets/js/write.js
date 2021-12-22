@@ -28,11 +28,6 @@ function _setAttr(des , attrName , attrVal) {
         return 1;
     }
 }
-function _fixWidth(one,two, height) {
-    document.getElementById(one).style.height =height + "vh" ;
-    document.getElementById(two).style.height =height + "vh" ;
-}
-_fixWidth("Right_bar", "Left_bar", 320)
 
 
 function HomeText(homeData) {
