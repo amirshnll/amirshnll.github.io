@@ -35,10 +35,13 @@ Links([
         "icon":"fal fa-graduation-cap",
     },
     {
+        "href":"https://orcid.org/0000-0003-4014-7982",
+        "icon":"fab fa-orcid",
+    },
+    {
         "href":"https://ashokri.com",
         "icon":"fab fa-wordpress",
     }
-
 ]);
 Skill([
     {
