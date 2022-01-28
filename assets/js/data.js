@@ -39,6 +39,10 @@ Links([
         "icon":"fab fa-orcid",
     },
     {
+        "href":"https://anchor.fm/datatalk",
+        "icon":"fas fa-podcast",
+    },
+    {
         "href":"https://ashokri.com",
         "icon":"fab fa-wordpress",
     }
@@ -153,7 +157,7 @@ Experience([
         "at":"<a href='https://semnan.ac.ir/' title='Semnan University'>Semnan University</a>",
         "des": "Image processing Course, Department of Electrical and Computer <br /> Machine learning Course, Department of Electrical and Computer <br /> Computer Architecture Course, Department of Electrical and Computer",
         "startDate":"November 2020",
-        "endDate":"December 2021 (1 yr 2 mo)",
+        "endDate":"May 2022 (1 yr 7 mo)",
     },
     {
         "title":"PHP Developer (full-time)",
@@ -189,7 +193,7 @@ Education([
         "title":"<a taget='_blank' href='https://en.wikipedia.org/wiki/Semnan_University' title='Semnan University'>Semnan University</a>",
         "study":"Artificial Intelligence and Robotics",
         "grade":"Master's degree, average : 17.69 of 20.00",
-        "endDate":"2019 - 2021",
+        "endDate":"2019 - 2022",
     },
     {
         "title":"<a taget='_blank' href='https://en.wikipedia.org/wiki/Shamsipour_Technical_College' title='Shamsipour Technical and Vocational University'>Shamsipour Technical and Vocational University</a>",
@@ -218,16 +222,22 @@ Project([
         "des":"<span class='fal fa-diamond'></span> Educational Blog (Programming & AI), <span class='fal fa-crown'></span> Alexa Rank : Top 3000 top website in Iran, <span class='fal fa-globe'></span> 1100 Free Blog Post"
     },
     {
-        "title":"Persian Swear Words Dataset <span class='fal fa-star'></span> 151 star",
+        "title":"Persian Swear Words Dataset <span class='fal fa-star'></span> 155 star",
         "link":"https://github.com/amirshnll/Persian-Swear-Words",
         "href":"https://github.com/amirshnll/Persian-Swear-Words",
         "des":"List of Persian Swears, DOI: <strong>10.34740/kaggle/dsv/2094967</strong>"
     },
     {
-        "title":"right to be forgotten (RTBF) Directory <span class='fal fa-star'></span> 85 star",
+        "title":"right to be forgotten (RTBF) Directory <span class='fal fa-star'></span> 112 star",
         "link":"https://rtbf.ir",
         "href":"https://rtbf.ir",
         "des":"A directory of direct links to delete your account from iranian web services. | github repository : <strong><a href='https://github.com/amirshnll/rtbf.ir' title='amirshnll/rtbf.ir'>amirshnll/rtbf.ir</a></strong>"
+    },
+    {
+        "title":"Datalk Podcast (Data + [Ta] + lk) - Persian Podcast",
+        "link":"https://anchor.fm/datatalk",
+        "href":"https://anchor.fm/datatalk",
+        "des":"Subjects: Machine Learning, Data Science, Data privacy, Data Security"
     },
 ]);
 Hobby([
@@ -235,7 +245,7 @@ Hobby([
         "title":"<span class='fal fa-car'></span> Driving",
     },
     {
-        "title":"<span class='fal fa-cheese'></span> Cooking"
+        "title":"<span class='fal fa-microphone-alt'></span> Podcast Recording"
     },
     {
         "title":"<span class='fal fa-pen-nib'></span> Blogging",
