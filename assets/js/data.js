@@ -6,7 +6,7 @@ HomeText([
         "location": "Islamic Republic of Iran",
         "birthday": "November 18th, 1996",
         "email":"amirsh.nll@gmail.com",
-        "about":"I have Master degree of <strong>Artificial Intelligence</strong> in computer and electrical department at the Semnan University, and I'm doing my research underneath cover of supervisor <strong><a target='_blank' href='https://scholar.google.com/citations?user=AM9LzzgAAAAJ' title='Dr. Farzin Yaghmaie'>Dr. Farzin Yaghmaee</a></strong>.<br/> My main areas of interest are Artificial intelligence (AI), Machine Learning (ML), Natural Language Processing (NLP), Image Memorability. <br /> I like working on open source projects."
+        "about":"I have Master degree of <strong>Artificial Intelligence</strong> in computer and electrical department at the Semnan University, and I'm doing my research underneath cover of supervisor <strong><a target='_blank' href='https://scholar.google.com/citations?user=AM9LzzgAAAAJ' title='Dr. Farzin Yaghmaie'>Dr. Farzin Yaghmaee</a></strong>. My main areas of interest are Artificial intelligence (AI), Machine Learning (ML), Natural Language Processing (NLP), Image Memorability. I like working on open source projects."
     }
 ]);
 Links([
@@ -38,6 +38,7 @@ Links([
         "href":"https://orcid.org/0000-0003-4014-7982",
         "icon":"fab fa-orcid",
     },
+    /*
     {
         "href":"https://anchor.fm/datatalk",
         "icon":"fas fa-podcast",
@@ -46,11 +47,9 @@ Links([
         "href":"https://ashokri.com",
         "icon":"fab fa-wordpress",
     }
+    */
 ]);
 Skill([
-    {
-        "title":"<strong>- Tools & Technologies</strong>",
-    },
     {
         "title":"PHP",
     },
@@ -58,16 +57,7 @@ Skill([
         "title":"Java",
     },
     {
-        "title":"Codeigniter",
-    },
-    {
-        "title":"Laravel",
-    },
-    {
         "title":"Matlab",
-    },
-    {
-        "title":"WordPress",
     },
     {
         "title":"python",
@@ -85,43 +75,7 @@ Skill([
         "title":"Git",
     },
     {
-        "title":"CSS",
-    },
-    {
-        "title":"HTML",
-    },
-    {
-        "title":"MySQL",
-    },
-    {
-        "title":"JavaScript",
-    },
-    {
-        "title":"Django",
-    },
-    {
-        "title":"JSON",
-    },
-    {
-        "title":"XML",
-    },
-    {
-        "title":"<strong>- Industry Knowledge</strong>",
-    },
-    {
         "title":"Machine Learning",
-    },
-    {
-        "title":"Front-end Development",
-    },
-    {
-        "title":"Agile Methodologies",
-    },
-    {
-        "title":"Object-Oriented Programming (OOP)",
-    },
-    {
-        "title":"Search Engine Optimization (SEO)",
     },
 ]);
 Language([
@@ -154,35 +108,35 @@ interest([
 Experience([
     {
         "title":"Teaching Assistant (part-time)",
-        "at":"<a href='https://semnan.ac.ir/' title='Semnan University'>Semnan University</a>",
-        "des": "Image processing Course, Department of Electrical and Computer <br /> Machine learning Course, Department of Electrical and Computer <br /> Computer Architecture Course, Department of Electrical and Computer",
+        "at":"<a href='https://semnan.ac.ir/' title='Semnan University'>Semnan University</a>, Department of Electrical and Computer",
+        "des": "Image processing Course, Machine learning Course, Computer Architecture Course",
         "startDate":"November 2020",
         "endDate":"May 2022 (1 yr 7 mo)",
     },
     {
         "title":"PHP Developer (full-time)",
-        "at":"<a href='https://chenco.ir/en' title='Cheshmenor'>Cheshmenor</a>",
+        "at":"<a href='https://chenco.ir/en' title='Cheshmenor'>Cheshmenor</a>, Software Department",
         "des": "",
         "startDate":"January 2019",
         "endDate":"August 2019 (8 mo)",
     },
     {
         "title":"IT Technician (internship)",
-        "at":"<a href='https://damavandwaters.com/?lang=en' title='Damavand Mineral Co'>Damavand Mineral Co</a>",
+        "at":"<a href='https://damavandwaters.com/?lang=en' title='Damavand Mineral Co'>Damavand Mineral Co</a>, R&D Department",
         "des": "",
         "startDate":"September 2018",
         "endDate":"December 2018 (4 mo)",
     },
     {
         "title":"Web Developer (internship)",
-        "at":"<a href='https://www.parsonline.com/' title='ParsOnline Group'>ParsOnline Group</a>",
+        "at":"<a href='https://www.parsonline.com/' title='ParsOnline Group'>ParsOnline Group</a>, Software Department",
         "des": "",
         "startDate":"June 2015",
         "endDate":"August 2015  (3 mo)",
     },
     {
         "title":"PHP Developer (full-time)",
-        "at":"<a href='http://www.spiraldesign.org/' title='Spiral Design Center'>Spiral Design Center</a>",
+        "at":"<a href='http://www.spiraldesign.org/' title='Spiral Design Center'>Spiral Design Center</a>, Software Department",
         "des": "",
         "startDate":"September 2014",
         "endDate":"January 2015  (5 mo)",
@@ -241,18 +195,10 @@ Project([
     },
 ]);
 Hobby([
+    /*
     {
-        "title":"<span class='fal fa-car'></span> Driving",
-    },
-    {
-        "title":"<span class='fal fa-microphone-alt'></span> Podcast Recording"
-    },
-    {
-        "title":"<span class='fal fa-pen-nib'></span> Blogging",
-    },
-    {
-        "title":"<span class='fal fa-swimmer'></span> Swimming",
-    },
+        "title":"",
+    },*/
 ]);
 Article([
     /*{
