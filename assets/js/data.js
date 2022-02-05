@@ -4,9 +4,8 @@ HomeText([
         "name":"Amir Shokri",
         "profilePic":"assets/img/avatar.jpg",
         "location": "Islamic Republic of Iran",
-        "birthday": "November 18th, 1996",
         "email":"amirsh.nll@gmail.com",
-        "about":"I have Master degree of <strong>Artificial Intelligence</strong> in computer and electrical department at the Semnan University, and I'm doing my research underneath cover of supervisor <strong><a target='_blank' href='https://scholar.google.com/citations?user=AM9LzzgAAAAJ' title='Dr. Farzin Yaghmaie'>Dr. Farzin Yaghmaee</a></strong>. My main areas of interest are Artificial intelligence (AI), Machine Learning (ML), Natural Language Processing (NLP), Image Memorability. I like working on open source projects."
+        "about":"I have always been interested in this that robot or machine does the tough and time-consuming tasks so that I'm apt to do Funny work myself, so I've studied at the University of <strong>Artificial Intelligence</strong> to be able to produce machines that can do routine work, and human do creative tasks and To use human being for better work. <br /> I have Master degree of <strong>Artificial Intelligence</strong> in computer and electrical department at the <strong>Semnan University</strong>, and I'm doing my research underneath cover of supervisor <strong><a target='_blank' href='https://scholar.google.com/citations?user=AM9LzzgAAAAJ' title='Dr. Farzin Yaghmaie'>Dr. Farzin Yaghmaee</a></strong>. My main areas of interest are <strong>Machine Learning (ML)</strong>, <strong>Image Memorability</strong>."
     }
 ]);
 Links([
@@ -38,16 +37,6 @@ Links([
         "href":"https://orcid.org/0000-0003-4014-7982",
         "icon":"fab fa-orcid",
     },
-    /*
-    {
-        "href":"https://anchor.fm/datatalk",
-        "icon":"fas fa-podcast",
-    },
-    {
-        "href":"https://ashokri.com",
-        "icon":"fab fa-wordpress",
-    }
-    */
 ]);
 Skill([
     {
@@ -146,25 +135,25 @@ Education([
     {
         "title":"<a taget='_blank' href='https://en.wikipedia.org/wiki/Semnan_University' title='Semnan University'>Semnan University</a>",
         "study":"Artificial Intelligence and Robotics",
-        "grade":"Master's degree, average : 17.69 of 20.00",
+        "grade":"Master's degree | <strong>GPA :</strong> 3.6 | <strong>average :</strong> 17.69 of 20.00",
         "endDate":"2019 - 2022",
     },
     {
         "title":"<a taget='_blank' href='https://en.wikipedia.org/wiki/Shamsipour_Technical_College' title='Shamsipour Technical and Vocational University'>Shamsipour Technical and Vocational University</a>",
         "study":"Computer Software Technology",
-        "grade":"Bachelor's degree, average : 18.13 of 20.00",
+        "grade":"Bachelor's degree | <strong>GPA :</strong> 3.6 | <strong>average :</strong> 18.13 of 20.00",
         "endDate":"2017 - 2019",
     },
     {
         "title":"<a taget='_blank' href='https://en.wikipedia.org/wiki/Enghel%C4%81b-e_Esl%C4%81mi_Technical_College' title='Enghelāb-e Eslāmi Technical College'>Enghelāb-e Eslāmi Technical College</a>",
         "study":"Computer Software Engineering",
-        "grade":"Associate's degree, average : 17.06 of 20.00",
+        "grade":"Associate's degree | <strong>GPA :</strong> 3.3 | <strong>average :</strong> 17.06 of 20.00",
         "endDate":"2014 - 2017",
     },
     {
         "title":"Dr-Hessabi Highschool",
         "study":"Master of Computer Applications (MCA)",
-        "grade":"Diploma, average : 17.63 of 20.00",
+        "grade":"Diploma | <strong>average :</strong> 17.63 of 20.00",
         "endDate":"2011 - 2014",
     }
 ]);
@@ -194,11 +183,19 @@ Project([
         "des":"Subjects: Machine Learning, Data Science, Data privacy, Data Security"
     },
 ]);
-Hobby([
-    /*
+Reeferences([
     {
-        "title":"",
-    },*/
+        "title":"Farzin Yaghmaee",
+        "pos":"Assistant Professor of Electrical and Computer Engineering Department, Semnan University, Iran",
+        "mail":"f_yaghmaee@semnan.ac.ir",
+        "gsc":"https://scholar.google.com/citations?user=bE1vyBwAAAAJ&hl=en"
+    },
+    {
+        "title":"Mohammad Javad Fadaeieslam ",
+        "pos":"Assistant Professor of Electrical and Computer Engineering Department, Semnan University, Iran",
+        "mail":"fadaei@semnan.ac.ir",
+        "gsc":"https://scholar.google.com/citations?user=VO3UT_UAAAAJ"
+    },
 ]);
 Article([
     /*{

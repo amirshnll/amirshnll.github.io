@@ -35,7 +35,6 @@ function HomeText(homeData) {
     _setInner("#name",homeData[0].name);
     _setInner("#email",homeData[0].email);
     _setInner("#location",homeData[0].location);
-    _setInner("#birthday",homeData[0].birthday);
     _setInner("#about",homeData[0].about);
     _setAttr("#profilePic" , 'src' ,homeData[0].profilePic);
 }
@@ -144,24 +143,25 @@ function Project(projectData) {
             "<p class='projectContent'>"+projectData[i].des+"</p>";
     }
 }
-function Hobby(hobbyData) {
-
-    let x=Object.keys(hobbyData).length;
+function Reeferences(reeferencesData) {
+    let x=Object.keys(reeferencesData).length;
     if (x===0) {
-        document.getElementById("hobbyData").remove()
+        document.getElementById("references").remove()
     }
 
     let i;
     for ( i=0 ; i < x; i++) {
         let _elementDiv = document.createElement("div");
-        _elementDiv.setAttribute("class","hobbyBox");
-        _elementDiv.setAttribute("id","hobbyes"+i);
-        document.getElementById("hobbyes").appendChild(_elementDiv);
-        document.getElementById("hobbyes"+i).innerHTML=
-            "<p class='hobbyTitle'>"+hobbyData[i].title+"</p>";
+        _elementDiv.setAttribute("class","referenceBox");
+        _elementDiv.setAttribute("id","references"+i);
+        document.getElementById("references").appendChild(_elementDiv);
+        document.getElementById("references"+i).innerHTML=
+            "<p class='referenceTitle'>"+reeferencesData[i].title+"</p>"+
+            "<p class='referenceContent'>"+reeferencesData[i].pos+"<br /><strong>Contact:</strong> <a href='mailto:"+reeferencesData[i].mail+"' title='"+reeferencesData[i].title+" Email'>"+reeferencesData[i].mail+"</a> | <strong></strong> <a target='_blank' href='"+reeferencesData[i].gsc+"' title='"+reeferencesData[i].title+" Google Scholar'>Google Scholar</a></p>";
     }
 }
 function Article(articleData) {
+    return;
     let x=Object.keys(articleData).length;
     if (x===0) {
         document.getElementById("articles").remove()
