@@ -171,7 +171,7 @@ Project([
         "des":"List of Persian Swears, DOI: <strong>10.34740/kaggle/dsv/2094967</strong>"
     },
     {
-        "title":"right to be forgotten (RTBF) Directory <span class='fal fa-star'></span> 112 star",
+        "title":"right to be forgotten (RTBF) Directory <span class='fal fa-star'></span> 120 star",
         "link":"https://rtbf.ir",
         "href":"https://rtbf.ir",
         "des":"A directory of direct links to delete your account from iranian web services. | github repository : <strong><a href='https://github.com/amirshnll/rtbf.ir' title='amirshnll/rtbf.ir'>amirshnll/rtbf.ir</a></strong>"
