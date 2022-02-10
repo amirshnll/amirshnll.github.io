@@ -5,7 +5,7 @@ HomeText([
         "profilePic":"assets/img/avatar.jpg",
         "location": "Islamic Republic of Iran",
         "email":"amirsh.nll@gmail.com",
-        "about":"I have always been interested in this that robot or machine does the tough and time-consuming tasks so that I'm apt to do Funny work myself, so I've studied at the University of <strong>Artificial Intelligence</strong> to be able to produce machines that can do routine work, and human do creative tasks and To use human being for better work. <br /> I have Master degree of <strong>Artificial Intelligence</strong> in computer and electrical department at the <strong>Semnan University</strong>, and I'm doing my research underneath cover of supervisor <strong><a target='_blank' href='https://scholar.google.com/citations?user=AM9LzzgAAAAJ' title='Dr. Farzin Yaghmaie'>Dr. Farzin Yaghmaee</a></strong>. My main areas of interest are <strong>Machine Learning (ML)</strong>, <strong>Image Memorability</strong>."
+        "about":"I've always been fascinated by the idea of a robot or machine performing tedious and time-consuming tasks while I focus on more enjoyable tasks, which is why I studied <strong>Artificial Intelligence</strong> at University to learn how to develop machines that perform routine tasks while humans perform creative tasks. I have a Master's degree in <strong>Artificial Intelligence</strong> from <strong>Semnan University's</strong> department of computer and electrical engineering, and I am now doing research under the direction of <strong><a target='_blank' href='https://scholar.google.com/citations?user=AM9LzzgAAAAJ' title='Dr. Farzin Yaghmaie'>Dr. Farzin Yaghmaee</a></strong>. <strong>Machine Learning (ML)</strong> and <strong>Image Memorability</strong> are two of my primary areas of study."
     }
 ]);
 Links([
@@ -98,35 +98,35 @@ Experience([
     {
         "title":"Teaching Assistant (part-time)",
         "at":"<a href='https://semnan.ac.ir/' title='Semnan University'>Semnan University</a>, Department of Electrical and Computer",
-        "des": "Image processing Course, Machine learning Course, Computer Architecture Course",
+        "des": "Image processing Course, Machine learning Course, Computer Architecture Course <br /> Developed a simple learning management system (LMS) on Github, Used Mailing List for Reminding class, migrated documentation from word to latex in class",
         "startDate":"November 2020",
         "endDate":"May 2022 (1 yr 7 mo)",
     },
     {
         "title":"PHP Developer (full-time)",
         "at":"<a href='https://chenco.ir/en' title='Cheshmenor'>Cheshmenor</a>, Software Department",
-        "des": "",
+        "des": "Developed Leasing System and retail sales data analyze Dashboard",
         "startDate":"January 2019",
         "endDate":"August 2019 (8 mo)",
     },
     {
         "title":"IT Technician (internship)",
         "at":"<a href='https://damavandwaters.com/?lang=en' title='Damavand Mineral Co'>Damavand Mineral Co</a>, R&D Department",
-        "des": "",
+        "des": "Developed Document Management System",
         "startDate":"September 2018",
         "endDate":"December 2018 (4 mo)",
     },
     {
         "title":"Web Developer (internship)",
         "at":"<a href='https://www.parsonline.com/' title='ParsOnline Group'>ParsOnline Group</a>, Software Department",
-        "des": "",
+        "des": "Developed Task Manager System",
         "startDate":"June 2015",
         "endDate":"August 2015  (3 mo)",
     },
     {
         "title":"PHP Developer (full-time)",
         "at":"<a href='http://www.spiraldesign.org/' title='Spiral Design Center'>Spiral Design Center</a>, Software Department",
-        "des": "",
+        "des": "Developed a booking WordPress plugin",
         "startDate":"September 2014",
         "endDate":"January 2015  (5 mo)",
     }
