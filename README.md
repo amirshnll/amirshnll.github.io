@@ -1,2 +1,2 @@
 # amirshnll.github.io
-my personal cv
+my cv

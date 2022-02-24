@@ -48,7 +48,7 @@ function Skill(skillData) {
         _elementDiv.setAttribute("class"," skill");
         _elementDiv.setAttribute("id","skill"+i);
         document.getElementById("skills").appendChild(_elementDiv);
-        document.getElementById("skill"+i).innerHTML= "<p>"+skillData[i].title.toLocaleUpperCase()+"</p>"
+        document.getElementById("skill"+i).innerHTML= "<p>"+skillData[i].title+"</p>"
 
     }
 

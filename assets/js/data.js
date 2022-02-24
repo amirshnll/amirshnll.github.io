@@ -40,31 +40,31 @@ Links([
 ]);
 Skill([
     {
-        "title":"PHP",
+        "title":"PHP  (Advanced)",
     },
     {
-        "title":"Java",
+        "title":"Java (Intermediate)",
     },
     {
-        "title":"Matlab",
+        "title":"Matlab (Intermediate)",
     },
     {
-        "title":"python",
+        "title":"Python (Advanced)",
     },
     {
-        "title":"TensorFlow",
+        "title":"Tensorflow (Intermediate)",
     },
     {
-        "title":"Linux",
+        "title":"Linux (Intermediate)",
     },
     {
-        "title":"C & C++",
+        "title":"C & C++ (Intermediate)",
     },
     {
-        "title":"Git",
+        "title":"Git (Advanced)",
     },
     {
-        "title":"Machine Learning",
+        "title":"Machine Learning (Intermediate, Coursera Certificate)",
     },
 ]);
 Language([
