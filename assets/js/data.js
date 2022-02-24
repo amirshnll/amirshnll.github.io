@@ -5,7 +5,7 @@ HomeText([
         "profilePic":"assets/img/avatar.jpg",
         "location": "Islamic Republic of Iran",
         "email":"amirsh.nll@gmail.com",
-        "about":"I've always been fascinated by the idea of a robot or machine performing tedious and time-consuming tasks while I focus on more enjoyable tasks, which is why I studied <strong>Artificial Intelligence</strong> at University to learn how to develop machines that perform routine tasks while humans perform creative tasks. I have a Master's degree in <strong>Artificial Intelligence</strong> from <strong>Semnan University's</strong> department of computer and electrical engineering, and I am now doing research under the direction of <strong><a target='_blank' href='https://scholar.google.com/citations?user=AM9LzzgAAAAJ' title='Dr. Farzin Yaghmaie'>Dr. Farzin Yaghmaee</a></strong>. <strong>Machine Learning (ML)</strong> and <strong>Image Memorability</strong> are two of my primary areas of study."
+        "about":"I have a Master's degree in <strong>Artificial Intelligence</strong> from <strong>Semnan University's</strong> department of computer and electrical engineering, and I did research under the direction of <strong><a target='_blank' href='https://scholar.google.com/citations?user=AM9LzzgAAAAJ' title='Dr. Farzin Yaghmaie'>Dr. Farzin Yaghmaee</a></strong>. <strong>Machine Learning (ML)</strong> and <strong>Image Memorability</strong> are two of my primary areas of study. I've always been fascinated by the idea of a robot or machine performing tedious and time-consuming tasks while I focus on more enjoyable tasks, which is why I studied <strong>Artificial Intelligence</strong> at University to learn how to develop machines that perform routine tasks while humans perform creative tasks."
     }
 ]);
 Links([
@@ -165,7 +165,7 @@ Project([
         "des":"<span class='fal fa-diamond'></span> Educational Blog (Programming & AI), <span class='fal fa-crown'></span> Alexa Rank : Top 3000 top website in Iran, <span class='fal fa-globe'></span> 1100 Free Blog Post"
     },
     {
-        "title":"Persian Swear Words Dataset <span class='fal fa-star'></span> 155 star",
+        "title":"Persian Swear Words Dataset <span class='fal fa-star'></span> 165 star",
         "link":"https://github.com/amirshnll/Persian-Swear-Words",
         "href":"https://github.com/amirshnll/Persian-Swear-Words",
         "des":"List of Persian Swears, DOI: <strong>10.34740/kaggle/dsv/2094967</strong>"
