@@ -143,6 +143,23 @@ function Project(projectData) {
             "<p class='projectContent'>"+projectData[i].des+"</p>";
     }
 }
+function Certificate(certificateData) {
+    let x=Object.keys(certificateData).length;
+    if (x===0) {
+        document.getElementById("certificate").remove()
+    }
+
+    let i;
+    for ( i=0 ; i < x; i++) {
+        let _elementDiv = document.createElement("div");
+        _elementDiv.setAttribute("class","certificateBox");
+        _elementDiv.setAttribute("id","certificate"+i);
+        document.getElementById("certificate").appendChild(_elementDiv);
+        document.getElementById("certificate"+i).innerHTML=
+            "<p class='referenceTitle'>"+certificateData[i].name+"</p>"+
+            "<p class='referenceContent'><strong>Issuing Organization:</strong> "+certificateData[i].org+" </p><p class='referenceContent'> <strong>Issue Date:</strong> "+certificateData[i].date+" </p><p class='referenceContent'> <strong>Expiration Date:</strong> "+certificateData[i].exp+" </p><p class='referenceContent'> <strong>Credential ID:</strong> "+certificateData[i].id+" </p><p class='referenceContent'> <strong>Credential URL:</strong> <a href='"+certificateData[i].url+"' target='_blank' title='"+certificateData[i].url+" Email'>"+certificateData[i].url+"</a></p>";
+    }
+}
 function Reeferences(reeferencesData) {
     let x=Object.keys(reeferencesData).length;
     if (x===0) {

@@ -64,7 +64,7 @@ Skill([
         "title":"Git (Advanced)",
     },
     {
-        "title":"Machine Learning (Intermediate, Coursera Certificate)",
+        "title":"Machine Learning (<a href='https://coursera.org/verify/X274Z4RLNCYV' title='Coursera Certificate' target='_blank'>Coursera Certificate</a>)",
     },
 ]);
 Language([
@@ -195,6 +195,16 @@ Reeferences([
         "pos":"Assistant Professor of Electrical and Computer Engineering Department, Semnan University, Iran",
         "mail":"fadaei@semnan.ac.ir",
         "gsc":"https://scholar.google.com/citations?user=VO3UT_UAAAAJ"
+    },
+]);
+Certificate([
+    {
+        "name":"Machine Learning",
+        "org":"Coursera",
+        "date":"March 2022",
+        "exp":"This certification does not expire",
+        "id":"X274Z4RLNCYV",
+        "url":"https://www.coursera.org/account/accomplishments/certificate/X274Z4RLNCYV"
     },
 ]);
 Article([
