@@ -1,12 +1,15 @@
-HomeText([{
-    "title": "Amir Shokri",
-    "name": "Amir Shokri",
-    "profilePic": "assets/img/avatar.jpg",
-    "location": "Islamic Republic of Iran",
-    "email": "amirsh.nll@gmail.com",
-    "about": "I have a Master's degree in <strong>artificial intelligence</strong> from <strong>Semnan University's</strong> Department of Computer and Electrical Engineering, and I did research under the direction of <strong><a target='_blank' href='https://scholar.google.com/citations?user=AM9LzzgAAAAJ' title='Dr. Farzin Yaghmaie'>Dr. Farzin Yaghmaee</a></strong>. <strong>Machine learning (ML)</strong> and <strong>image memorability</strong> are two of my primary areas of study. I've always been fascinated by the idea of a robot or machine performing tedious and time-consuming tasks while I focus on more enjoyable tasks, which is why I studied <strong>artificial intelligence</strong> at university to learn how to develop machines that perform routine tasks while humans perform creative tasks."
-}]);
-Links([{
+HomeText([
+    {
+        "title": "Amir Shokri",
+        "name": "Amir Shokri",
+        "profilePic": "assets/img/avatar.jpg",
+        "location": "Islamic Republic of Iran",
+        "email": "amirsh.nll@gmail.com",
+        "about": "I have a Master's degree in <strong>artificial intelligence</strong> from <strong>Semnan University's</strong> Department of Computer and Electrical Engineering, and I did research under the direction of <strong><a target='_blank' href='https://scholar.google.com/citations?user=AM9LzzgAAAAJ' title='Dr. Farzin Yaghmaie'>Dr. Farzin Yaghmaee</a></strong>. <strong>Machine learning (ML)</strong> and <strong>image memorability</strong> are two of my primary areas of study. I've always been fascinated by the idea of a robot or machine performing tedious and time-consuming tasks while I focus on more enjoyable tasks, which is why I studied <strong>artificial intelligence</strong> at university to learn how to develop machines that perform routine tasks while humans perform creative tasks."
+    }
+]);
+Links([
+    {
         "href": "https://github.com/amirshnll",
         "icon": "fab fa-github",
     },
@@ -35,7 +38,8 @@ Links([{
         "icon": "fab fa-orcid",
     },
 ]);
-Skill([{
+Skill([
+    {
         "title": "PHP  (Advanced)",
     },
     {
@@ -63,7 +67,8 @@ Skill([{
         "title": "Machine Learning (<a href='https://coursera.org/verify/X274Z4RLNCYV' title='Coursera Certificate' target='_blank'>Coursera Certificate</a>)",
     },
 ]);
-Language([{
+Language([
+    {
         "title": "English",
 
     },
@@ -72,7 +77,8 @@ Language([{
 
     },
 ]);
-interest([{
+interest([
+    {
         "title": "Text mining"
     },
     {
@@ -88,7 +94,8 @@ interest([{
         "title": "Natural Language Processing (NLP)"
     }
 ]);
-Experience([{
+Experience([
+    {
         "title": "Teaching Assistant (part-time)",
         "at": "<a href='https://semnan.ac.ir/' title='Semnan University'>Semnan University</a>, Department of Electrical and Computer",
         "des": "Image processing Course, Machine learning Course, Computer Architecture Course <br /> Developed a simple learning management system (LMS) on Github, Used Mailing List for Reminding class, migrated documentation from word to latex in class",
@@ -124,7 +131,8 @@ Experience([{
         "endDate": "January 2015  (5 mo)",
     }
 ]);
-Education([{
+Education([
+    {
         "title": "<a taget='_blank' href='https://en.wikipedia.org/wiki/Semnan_University' title='Semnan University'>Semnan University</a>",
         "study": "Artificial Intelligence and Robotics",
         "grade": "Master's degree | <strong>GPA :</strong> 3.6 | <strong>average :</strong> 17.69 of 20.00",
@@ -149,7 +157,8 @@ Education([{
         "endDate": "2011 - 2014",
     }
 ]);
-Project([{
+Project([
+    {
         "title": "camelCase.ir",
         "link": "https://camelcase.ir",
         "href": "https://camelcase.ir",
@@ -174,7 +183,8 @@ Project([{
         "des": "Subjects: Machine Learning, Data Science, Data privacy, Data Security"
     },
 ]);
-Reeferences([{
+Reeferences([
+    {
         "title": "Farzin Yaghmaee",
         "pos": "Assistant Professor of Electrical and Computer Engineering Department, Semnan University, Iran",
         "mail": "f_yaghmaee@semnan.ac.ir",
@@ -187,14 +197,24 @@ Reeferences([{
         "gsc": "https://scholar.google.com/citations?user=VO3UT_UAAAAJ"
     },
 ]);
-Certificate([{
-    "name": "Machine Learning",
-    "org": "Coursera",
-    "date": "March 2022",
-    "exp": "This certification does not expire",
-    "id": "X274Z4RLNCYV",
-    "url": "https://www.coursera.org/account/accomplishments/certificate/X274Z4RLNCYV"
-}, ]);
+Certificate([
+    {
+        "name": "Neural Networks and Deep Learning",
+        "org": "Coursera",
+        "date": "May 2022",
+        "exp": "This certification does not expire",
+        "id": "CS2N9WPRAAJV",
+        "url": "https://www.coursera.org/account/accomplishments/certificate/CS2N9WPRAAJV"
+    },
+    {
+        "name": "Machine Learning",
+        "org": "Coursera",
+        "date": "March 2022",
+        "exp": "This certification does not expire",
+        "id": "X274Z4RLNCYV",
+        "url": "https://www.coursera.org/account/accomplishments/certificate/X274Z4RLNCYV"
+    }
+]);
 Article([
     /*{
         "title":"",
