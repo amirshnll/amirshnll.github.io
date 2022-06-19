@@ -37,6 +37,10 @@ Links([
         "href": "https://orcid.org/0000-0003-4014-7982",
         "icon": "fab fa-orcid",
     },
+    {
+        "href": "https://ashokri.com",
+        "icon": "fab fa-wordpress",
+    },
 ]);
 Skill([
     {
@@ -100,7 +104,7 @@ Experience([
         "at": "<a href='https://semnan.ac.ir/' title='Semnan University'>Semnan University</a>, Department of Electrical and Computer",
         "des": "Image processing Course, Machine learning Course, Computer Architecture Course <br /> Developed a simple learning management system (LMS) on Github, Used Mailing List for Reminding class, migrated documentation from word to latex in class",
         "startDate": "November 2020",
-        "endDate": "May 2022 (1 yr 7 mo)",
+        "endDate": "Jun 2022 (1 yr 8 mo)",
     },
     {
         "title": "PHP Developer (full-time)",
@@ -165,13 +169,13 @@ Project([
         "des": "<span class='fal fa-diamond'></span> Educational Blog (Programming & AI), <span class='fal fa-crown'></span> Alexa Rank : Top 3000 top website in Iran, <span class='fal fa-globe'></span> 1100 Free Blog Post"
     },
     {
-        "title": "Persian Swear Words Dataset <span class='fal fa-star'></span> 175 star",
+        "title": "Persian Swear Words Dataset <span class='fal fa-star'></span> 186 star",
         "link": "https://github.com/amirshnll/Persian-Swear-Words",
         "href": "https://github.com/amirshnll/Persian-Swear-Words",
         "des": "List of Persian Swears, DOI: <strong>10.34740/kaggle/dsv/2094967</strong>"
     },
     {
-        "title": "right to be forgotten (RTBF) <span class='fal fa-star'></span> 133 star",
+        "title": "right to be forgotten (RTBF) <span class='fal fa-star'></span> 136 star",
         "link": "https://rtbf.ir",
         "href": "https://rtbf.ir",
         "des": "A directory of direct links to delete your account from iranian web services. | github repository : <strong><a href='https://github.com/rtbf.ir/rtbf.ir' title='amirshnll/rtbf.ir'>amirshnll/rtbf.ir</a></strong>"
@@ -180,7 +184,7 @@ Project([
         "title": "Datalk Podcast (Data + [Ta] + lk) - Persian Podcast",
         "link": "https://anchor.fm/datatalk",
         "href": "https://anchor.fm/datatalk",
-        "des": "Subjects: Machine Learning, Data Science, Data privacy, Data Security"
+        "des": "Subjects: Machine Learning, Data Science, Data privacy"
     },
 ]);
 Reeferences([
