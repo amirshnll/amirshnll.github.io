@@ -100,18 +100,18 @@ interest([
 ]);
 Experience([
     {
+        "title": "PHP Developer (full-time)",
+        "at": "<a href='https://chenco.ir/en' title='Cheshmenor'>Cheshmenor</a>, Software Department",
+        "des": "Developed Leasing System and retail sales data analyze Dashboard",
+        "startDate": "January 2019",
+        "endDate": "Present (3 yr 7 mo)",
+    },
+    {
         "title": "Teaching Assistant (part-time)",
         "at": "<a href='https://semnan.ac.ir/' title='Semnan University'>Semnan University</a>, Department of Electrical and Computer",
         "des": "Image processing Course, Machine learning Course, Computer Architecture Course <br /> Developed a simple learning management system (LMS) on Github, Used Mailing List for Reminding class, migrated documentation from word to latex in class",
         "startDate": "November 2020",
         "endDate": "Jun 2022 (1 yr 8 mo)",
-    },
-    {
-        "title": "PHP Developer (full-time)",
-        "at": "<a href='https://chenco.ir/en' title='Cheshmenor'>Cheshmenor</a>, Software Department",
-        "des": "Developed Leasing System and retail sales data analyze Dashboard",
-        "startDate": "January 2019",
-        "endDate": "August 2019 (8 mo)",
     },
     {
         "title": "IT Technician (internship)",
@@ -166,7 +166,7 @@ Project([
         "title": "camelCase.ir",
         "link": "https://camelcase.ir",
         "href": "https://camelcase.ir",
-        "des": "<span class='fal fa-diamond'></span> Educational Blog (Programming & AI), <span class='fal fa-crown'></span> Alexa Rank : Top 3000 top website in Iran, <span class='fal fa-globe'></span> 1100 Free Blog Post"
+        "des": "<span class='fal fa-diamond'></span> Educational Blog (Programming & AI), <span class='fal fa-crown'></span> Alexa Rank : Top 3000 top website in Iran, <span class='fal fa-globe'></span> 1200 Free Blog Post"
     },
     {
         "title": "Persian Swear Words Dataset <span class='fal fa-star'></span> 186 star",
