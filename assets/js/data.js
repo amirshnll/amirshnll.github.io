@@ -166,7 +166,7 @@ Project([
         "title": "camelCase.ir",
         "link": "https://camelcase.ir",
         "href": "https://camelcase.ir",
-        "des": "<span class='fal fa-diamond'></span> Educational Blog (Programming & AI), <span class='fal fa-crown'></span> Alexa Rank : Top 3000 top website in Iran, <span class='fal fa-globe'></span> 1200 Free Blog Post"
+        "des": "<span class='fal fa-diamond'></span> Educational Blog (Programming & AI), <span class='fal fa-crown'></span>, <span class='fal fa-globe'></span> 1200 Free Blog Post"
     },
     {
         "title": "Persian Swear Words Dataset <span class='fal fa-star'></span> 186 star",
