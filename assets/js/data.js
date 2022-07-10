@@ -102,7 +102,7 @@ Experience([
     {
         "title": "PHP Developer (full-time)",
         "at": "<a href='https://chenco.ir/en' title='Cheshmenor'>Cheshmenor</a>, Software Department",
-        "des": "Developed Leasing System and retail sales data analyze Dashboard",
+        "des": "Developed Enterprise resource planning System (ERP), Developed Leasing System and retail sales data analyze Dashboard",
         "startDate": "January 2019",
         "endDate": "Present (3 yr 7 mo)",
     },
