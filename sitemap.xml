@@ -1,68 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
-<url>
-  <loc>https://amirshnll.github.io/</loc>
-  <lastmod>2021-12-19T12:50:49+00:00</lastmod>
-</url>
-<url>
-<loc>https://amirshnll.github.io/corona</loc>
-<lastmod>2021-12-19T12:50:49+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://amirshnll.github.io/persian-quotes</loc>
-<lastmod>2021-12-19T12:50:49+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://amirshnll.github.io/skimage-persian-userguid</loc>
-<lastmod>2021-12-19T12:50:49+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://amirshnll.github.io/Tetris</loc>
-<lastmod>2021-12-19T12:50:49+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://amirshnll.github.io/sticky-note-javascript</loc>
-<lastmod>2021-12-19T12:50:49+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://amirshnll.github.io/calendar-widget</loc>
-<lastmod>2021-12-19T12:50:49+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://amirshnll.github.io/color-converter</loc>
-<lastmod>2021-12-19T12:50:49+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://amirshnll.github.io/truth-or-dare</loc>
-<lastmod>2021-12-19T12:50:49+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://amirshnll.github.io/speed-reading-test</loc>
-<lastmod>2021-12-19T12:50:49+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://amirshnll.github.io/hjfr</loc>
-<lastmod>2021-12-19T12:50:49+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://amirshnll.github.io/countdown</loc>
-<lastmod>2021-12-19T12:50:49+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-
+  <url>
+    <loc>https://amirshnll.github.io/</loc>
+    <lastmod>2021-12-19T12:50:49+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://amirshnll.github.io/corona</loc>
+    <lastmod>2021-12-19T12:50:49+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://amirshnll.github.io/Tetris</loc>
+    <lastmod>2021-12-19T12:50:49+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://amirshnll.github.io/speed-reading-test</loc>
+    <lastmod>2021-12-19T12:50:49+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
 </urlset>
