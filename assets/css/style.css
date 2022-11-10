@@ -1,24 +1,33 @@
-@import url(//fonts.googleapis.com/css?family=Calibri);
+@font-face {
+  font-family: "Calibri";
+  src: url(../font/calibri.ttf);
+}
+
 .cv {
   max-width: 90%;
   width: 1200px;
   margin: 50px auto;
-  font-family: "Calibri";
+  font-family: "Calibri" !important;
   line-height: 1.6;
   font-size: 15px;
 }
+
 a {
   color: #000;
 }
+
 .email {
   text-decoration: none;
 }
+
 .cv div {
   margin-top: 40px;
 }
+
 .links a {
   text-decoration: underline;
 }
+
 .about img {
   border-radius: 100%;
 }
